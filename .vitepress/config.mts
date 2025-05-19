@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "nicovideo.life Developer Documents",
+  title: "nicovideo.life Developer",
   description: "nicovideo.life Developer Documents",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
