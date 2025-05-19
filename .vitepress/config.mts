@@ -27,16 +27,6 @@ export default defineConfig({
             { text: 'nicovrc.net', link: '/function/function_nicovrc' }
           ]
         }
-      ],
-      '/config/': [
-        {
-          text: 'Config',
-          items: [
-            { text: 'Index', link: '/config/' },
-            { text: 'Three', link: '/config/three' },
-            { text: 'Four', link: '/config/four' }
-          ]
-        }
       ]
     },
 
