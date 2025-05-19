@@ -12,8 +12,8 @@ hero:
       link: /overview/welcome
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Overview
+    details: - [Overview](/overview/welcome)
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
