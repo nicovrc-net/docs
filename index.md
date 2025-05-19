@@ -6,10 +6,14 @@ hero:
   name: "nicovideo.life &"
   text: "nicovrc.net"
   tagline: Developer Documents
+  image:
+    src: https://resource.video.nimg.jp/uni/images/favicon/144.png?resource=nicovideo.life
+    alt: logo
   actions:
     - theme: brand
       text: Get Started
       link: /overview/welcome
+      
 
 # features:
 #   - title: Overview
