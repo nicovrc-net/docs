@@ -15,12 +15,12 @@ hero:
       link: /overview/welcome
       
 
-# features:
-#   - title: Overview
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+  - title: 超簡単
+    details: ニコニコ動画の動画をほぼ変えることはなくVRChatで見ることができます。
+  - title: 超軽量
+    details: インストールは不要で、VRChatしながらでも利用できます。
+  - title: 超拡張性
+    details: いろんな機能が純利リリースされるためVRChatでのニコニコライフを円滑に楽しめます。
 ---
 
