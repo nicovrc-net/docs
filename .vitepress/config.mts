@@ -10,15 +10,15 @@ export default defineConfig({
       { text: 'Home', link: '/' }
     ],
 
-    sidebar: [
-      {
-        text: 'Overview',
-        items: [
-          { text: 'Welcome', link: '/overview/welcome' },
-          { text: 'Function', link: '/overview/function' }
-        ]
-      }
-    ],
+    // sidebar: [
+    //   {
+    //     text: 'Overview',
+    //     items: [
+    //       { text: 'Welcome', link: '/overview/welcome' },
+    //       { text: 'Function', link: '/overview/function' }
+    //     ]
+    //   }
+    // ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
