@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "nicovideo.life & nicovrc.net"
-  text: " Developer Documents"
-  # tagline: 扉を開くスキルを身につけましょう。nicovideo.lifeを最大限に活用するための、役割や製品に特化したドキュメント、ハンズオン トレーニング、認定資格などのすべてをご覧いただけます。
+  name: "nicovideo.life &"
+  text: "nicovrc.net"
+  tagline: Developer Documents
   actions:
     - theme: brand
       text: Get Started
