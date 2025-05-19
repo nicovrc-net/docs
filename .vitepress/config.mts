@@ -9,6 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' }
     ],
+    logo: 'https://resource.video.nimg.jp/uni/images/favicon/144.png?resource=nicovideo.life',
 
     sidebar: {
       '/overview/': [
