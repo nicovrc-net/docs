@@ -3,16 +3,13 @@
 layout: home
 
 hero:
-  name: "nicovideo.life Developer Documents"
-  text: " nicovideo.life Developer Documents"
-  tagline: My great project tagline
+  name: "nicovideo.life"
+  text: " Developer Documents"
+  tagline: 扉を開くスキルを身につけましょう。nicovideo.lifeを最大限に活用するための、役割や製品に特化したドキュメント、ハンズオン トレーニング、認定資格などのすべてをご覧いただけます。
   actions:
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
   - title: Feature A
