@@ -15,18 +15,16 @@ export default defineConfig({
         {
           text: 'Overview',
           items: [
-            { text: 'Welcome', link: '/overview/welcome' },
-            { text: 'Function', link: '/overview/function' }
+            { text: 'Welcome', link: '/overview/welcome' }
           ]
         }
       ],
-      '/guide/': [
+      '/function/': [
         {
-          text: 'Guide',
+          text: 'Function',
           items: [
-            { text: 'Index', link: '/guide/' },
-            { text: 'One', link: '/guide/one' },
-            { text: 'Two', link: '/guide/two' }
+            { text: 'nicovide.life', link: '/function/function_nicovideo' },
+            { text: 'nicovrc.net', link: '/function/function_nicovrc' }
           ]
         }
       ],
