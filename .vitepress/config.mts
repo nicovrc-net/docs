@@ -2,27 +2,37 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "nicovideo.life Developer Documents",
-  description: " nicovideo.life Developer Documents",
+  title: "nicovideo.life Developer",
+  description: "nicovideo.life Developer Documents",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Home', link: '/' }
     ],
+    logo: 'https://resource.video.nimg.jp/uni/images/favicon/144.png?resource=nicovideo.life',
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/overview/': [
+        {
+          text: 'Overview',
+          items: [
+            { text: 'Welcome', link: '/overview/welcome' }
+          ]
+        }
+      ],
+      '/function/': [
+        {
+          text: 'Function',
+          items: [
+            { text: 'nicovide.life', link: '/function/function_nicovideo' },
+            { text: 'nicovrc.net', link: '/function/function_nicovrc' }
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/nicovrc-net/docs' }
     ]
   }
 })
